@@ -57,6 +57,7 @@ button {
   background-color: #4338ca;
   margin-bottom: 24px;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .name {
